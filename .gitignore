@@ -24,10 +24,3 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-.gitignore
-.idea/.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/sonarlint/
-.idea/vcs.xml
-oil-oc-recognition.iml
