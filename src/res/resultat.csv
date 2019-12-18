@@ -161,7 +161,7 @@ cruejouls;0.0
 byans-sur-doubs;0.0
 courcelles-sur-vesle;-0.6
 clarensac;0.4
-berlancourt;-1.2
+berlancourt;-1.0
 broussy-le-grand;-0.8
 millam;-0.2
 etaing;0.0
@@ -216,7 +216,7 @@ mericourt-l'abbe;-0.4
 oissy;-0.4
 montjean;0.6
 eccles;-0.4
-berthecourt;-1.4
+berthecourt;-1.0
 saint-come-du-mont;-0.6
 barro;0.4
 sainte-marie-la-robert;0.0
@@ -232,7 +232,7 @@ hottviller;-0.6
 chassagny;-0.4
 villeneuve-frouville;0.2
 santoche;-0.2
-burlioncourt;-1.2
+burlioncourt;-1.0
 les corvees-les-yys;-0.4
 mercurey;-0.8
 rozoy-le-vieil;-0.2
@@ -333,7 +333,7 @@ louchy-montfand;-0.6
 baraqueville;-0.6
 saint-georges-des-coteaux;0.0
 bouilhonnac;0.2
-chicheboville;-1.2
+chicheboville;-1.0
 plessis-saint-benoist;-0.6
 saint-laurent;0.4
 ouste;0.0
@@ -578,7 +578,7 @@ douville;-0.6
 saint-sulpice;0.4
 alluyes;0.0
 la flotte;0.0
-pont-de-cheruy;-1.2
+pont-de-cheruy;-1.0
 pont-a-vendin;-0.2
 champsecret;-0.4
 clarques;-0.4
@@ -874,7 +874,7 @@ resson;-0.8
 morley;-0.4
 pomeys;0.0
 villecloye;0.2
-hericourt;-1.4
+hericourt;-1.0
 arabaux;0.0
 le hingle;0.0
 brennilis;-0.2
@@ -921,7 +921,7 @@ mailley-et-chazelot;-0.2
 venette;0.0
 viven;0.0
 saint-ignan;0.8
-belgentier;-1.6
+belgentier;-1.0
 jullie;0.0
 villetelle;0.2
 mezel;0.0
@@ -1065,7 +1065,7 @@ saint-cyprien-sur-dourdou;0.4
 trappes;-0.4
 blet;0.0
 angresse;-0.6
-mercey-le-grand;-1.2
+mercey-le-grand;-1.0
 nassandres;-0.4
 esvres;-0.4
 felletin;-0.2
@@ -1156,7 +1156,7 @@ veronnes;-0.20000002
 saint-ouen-du-mesnil-oger;-0.6
 saint-marcouf;0.4
 brimeux;0.0
-auchonvillers;-1.4
+auchonvillers;-1.0
 marliac;0.8
 mandrevillars;-0.2
 auxi-le-chateau;-0.8
@@ -1215,7 +1215,7 @@ goult;0.0
 preaux;0.0
 lasserre-de-prouille;-0.6
 rigny-la-salle;0.0
-varennes-jarcy;-1.2
+varennes-jarcy;-1.0
 chaudefonds-sur-layon;0.0
 saint-pierre-des-ifs;0.0
 bron;-0.2
@@ -1533,7 +1533,7 @@ bully;-0.4
 saint-ouen-domprot;0.4
 bening-les-saint-avold;-0.8
 villenavotte;0.2
-contescourt;-1.4
+contescourt;-1.0
 boulogne-la-grasse;0.0
 villefranche-de-panat;0.4
 prey;-0.4
@@ -1566,7 +1566,7 @@ le puid;0.0
 athee;-0.2
 saint-pierre-tarentaine;0.0
 voncq;-0.2
-francheville;-1.2
+francheville;-1.0
 saint-hilaire-le-grand;-1.0
 authon;-0.6
 champignolles;-0.4
@@ -1580,7 +1580,7 @@ audignicourt;-0.8
 mouterre-silly;-1.0
 panassac;0.4
 bouzigues;-0.4
-mennetou-sur-cher;-1.4
+mennetou-sur-cher;-1.0
 saint-malo-du-bois;0.0
 migneres;-0.4
 canet;-0.4
@@ -1678,7 +1678,7 @@ mont-bonvillers;-0.6
 boissy-la-riviere;-0.4
 sabadel-lauzes;-0.4
 rheges;-0.6
-schmittviller;-1.2
+schmittviller;-1.0
 saint-jean-de-chevelu;0.0
 vailhourles;-0.6
 faverney;-0.8
@@ -1779,7 +1779,7 @@ saint-jean-sur-reyssouze;0.2
 montanel;0.2
 audes;-0.8
 barberaz;-0.4
-berneval-le-grand;-1.2
+berneval-le-grand;-1.0
 chissay-en-touraine;0.0
 la pesse;-0.6
 villapourcon;0.2
@@ -1925,7 +1925,7 @@ saint-cyprien;0.4
 jonval;-0.6
 bouchavesnes-bergen;-0.4
 saint-mars-du-desert;0.0
-berthenicourt;-1.4
+berthenicourt;-1.0
 boisme;0.0
 autrey;-0.4
 champlan;0.4
@@ -1940,7 +1940,7 @@ villiers-le-sec;-0.20000002
 prisse-la-charriere;-0.4
 boissy-le-bois;0.0
 lattes;-0.4
-themericourt;-1.4
+themericourt;-1.0
 behoust;0.0
 blasimon;-0.2
 vauvillers;-1.0
@@ -2321,7 +2321,7 @@ versaugues;-0.4
 carbay;-0.4
 villar-saint-anselme;0.2
 estampes;-0.4
-tilloy-les-hermaville;-1.2
+tilloy-les-hermaville;-1.0
 fleury;0.0
 cleville;-0.6
 la ferriere-sur-risle;-0.4
@@ -2609,7 +2609,7 @@ dolus-d'oleron;-0.6
 bacquepuis;0.0
 monsegur;0.2
 veauville-les-quelles;-0.6
-selles-sur-cher;-1.6
+selles-sur-cher;-1.0
 huchenneville;-0.8
 reauville;-0.6
 audembert;-0.8
@@ -2637,7 +2637,7 @@ ventelay;-0.4
 battenans-varin;0.0
 soignolles;-0.4
 meloisey;-0.4
-ticheville;-1.2
+ticheville;-1.0
 couladere;-0.4
 sainte-marie-de-vatimesnil;-0.20000002
 brides-les-bains;-0.4
@@ -2834,7 +2834,7 @@ charteves;-0.4
 cras;0.0
 villedieu-les-poeles;-0.20000002
 pigny;-0.4
-crezancay-sur-cher;-1.4
+crezancay-sur-cher;-1.0
 sene;0.0
 beauvau;0.0
 vivies;-0.8
@@ -3001,7 +3001,7 @@ quincy-sous-le-mont;-0.6
 cahagnolles;-0.4
 bapaume;0.0
 chateauneuf-du-pape;-0.4
-saint-aubin-le-guichard;-1.2
+saint-aubin-le-guichard;-1.0
 buffieres;-0.4
 montiers-sur-saulx;-0.20000002
 perrusson;-0.6
@@ -3111,13 +3111,13 @@ deauville;-0.6
 anctoville;-0.6
 melleroy;-1.0
 la roche-clermault;-0.6
-puchevillers;-1.2
+puchevillers;-1.0
 ecurie;0.0
 medis;0.0
 marnay;0.0
 gigny-sur-saone;-0.2
 saint-biez-en-belin;0.4
-libercourt;-1.2
+libercourt;-1.0
 juzanvigny;-0.4
 banville;-0.6
 sainte-severe-sur-indre;0.0
@@ -3141,7 +3141,7 @@ gaillon;-0.2
 asques;-0.4
 espinas;-0.4
 vaux-sur-mer;-0.8
-autrey-les-gray;-1.6
+autrey-les-gray;-1.0
 ruille-sur-loir;-0.2
 avremesnil;-0.6
 roche-charles-la-mayrand;-0.6
@@ -3478,7 +3478,7 @@ bieville;-0.6
 erce-pres-liffre;-0.4
 causses-et-veyran;0.0
 jassans-riottier;-1.0
-la trinite-du-mont;-1.2
+la trinite-du-mont;-1.0
 xures;-0.4
 bardigues;-0.4
 montpollin;0.2
@@ -3533,7 +3533,7 @@ bains-sur-oust;0.0
 saint-benoit-sur-seine;0.2
 embry;-0.4
 goes;-0.4
-hauteville-la-guichard;-1.8
+hauteville-la-guichard;-1.0
 saint-vincent-jalmoutiers;-0.4
 heloup;-0.2
 commelle-vernay;-1.0
@@ -3559,7 +3559,7 @@ leon;-0.2
 roisey;-0.4
 pourcharesses;-0.6
 adelans-et-le-val-de-bithaine;-0.2
-vieilles-maisons-sur-joudry;-1.4
+vieilles-maisons-sur-joudry;-1.0
 seillac;-0.2
 authon-ebeon;-0.6
 wildenstein;0.2
@@ -3660,7 +3660,7 @@ crecy-sur-serre;-0.4
 villers-sous-montrond;-0.20000002
 la ferte-frenel;-0.4
 mende;0.0
-bellou-le-trichard;-1.6
+bellou-le-trichard;-1.0
 puzieux;0.0
 faulx;0.0
 colombe-le-sec;0.0
@@ -3825,7 +3825,7 @@ toulis-et-attencourt;-0.8
 saint-vincent-de-paul;0.4
 cour-sur-loire;0.0
 lartigue;0.0
-saint-prancher;-1.4
+saint-prancher;-1.0
 seynes;-0.4
 gouaux;0.0
 saint-hilaire-en-lignieres;-0.20000002
@@ -3917,7 +3917,7 @@ annoire;0.0
 chambolle-musigny;-0.4
 castelmoron-d'albret;0.2
 la barben;0.0
-bessoncourt;-1.6
+bessoncourt;-1.0
 thieulloy-la-ville;-0.6
 charnay;-0.4
 rosnay;-0.4
@@ -3958,7 +3958,7 @@ la chapelle-sur-furieuse;-0.2
 pedernec;-0.4
 saint-santin-de-maurs;0.4
 blagny;-0.4
-sauvigney-les-gray;-1.2
+sauvigney-les-gray;-1.0
 eyjeaux;-0.2
 mezangers;-0.4
 vignonet;-0.6
@@ -3992,7 +3992,7 @@ orges;-0.4
 bienvillers-au-bois;-0.6
 ollainville;-0.6
 nochize;0.0
-auberchicourt;-1.2
+auberchicourt;-1.0
 tauriac-de-camares;-0.4
 setques;-0.4
 salmagne;0.0
@@ -4906,7 +4906,7 @@ sainte-eulalie-d'olt;0.4
 sennecey-les-dijon;-0.6
 monsols;0.2
 bachant;0.0
-mareuil-sur-cher;-1.2
+mareuil-sur-cher;-1.0
 lahas;0.0
 lafrancaise;0.0
 redon;0.2
@@ -4967,7 +4967,7 @@ monceau-sur-oise;0.2
 la bastidonne;-0.2
 andert-et-condon;-0.6
 goulier;-0.8
-vaucelles-et-beffecourt;-1.4
+vaucelles-et-beffecourt;-1.0
 wintzenheim-kochersberg;-0.6
 maleville;-0.6
 fremery;-0.8
@@ -5169,7 +5169,7 @@ brachay;-0.4
 aingoulaincourt;-0.8
 talairan;0.4
 le sauze-du-lac;-0.4
-oherville;-1.2
+oherville;-1.0
 la vernelle;-0.6
 cruis;0.0
 repentigny;-0.4
@@ -5197,7 +5197,7 @@ plovan;0.4
 machecoul;-0.2
 generville;-1.0
 lugos;0.4
-le herie-la-vieville;-1.2
+le herie-la-vieville;-1.0
 antraigues-sur-volane;-0.4
 fontaines;-0.6
 vernusse;-0.4
@@ -5281,7 +5281,7 @@ saint-clair-sur-galaure;0.4
 savines-le-lac;-0.4
 fravaux;0.0
 salsigne;0.0
-vernancourt;-1.2
+vernancourt;-1.0
 arudy;-0.4
 carayac;0.4
 lieuran-les-beziers;-0.8
@@ -5452,7 +5452,7 @@ vironchaux;-0.2
 rouvroy;-0.4
 rantigny;-0.4
 bize;0.0
-revercourt;-1.2
+revercourt;-1.0
 saint-andre-le-bouchoux;0.4
 chateauneuf-en-thymerais;-0.4
 frederic-fontaine;-1.0
@@ -5601,7 +5601,7 @@ victot-pontfol;-0.2
 pont-sur-vanne;-0.2
 chateauneuf-sur-loire;0.0
 jaillans;-0.2
-henrichemont;-1.2
+henrichemont;-1.0
 perigny-la-rose;-0.4
 la terrasse-sur-dorlay;-0.8
 seyssuel;0.0
@@ -5857,7 +5857,7 @@ saint-bonnet-de-valclerieux;-0.20000002
 ayron;-0.2
 lussan;0.4
 razengues;-0.4
-le pescher;-1.4
+le pescher;-1.0
 alincthun;0.0
 froidfond;0.2
 houlette;0.0
@@ -5975,7 +5975,7 @@ villers-sur-bonnieres;-0.20000002
 le bellay-en-vexin;-0.4
 verdon;-0.6
 letelon;-0.6
-guercheville;-1.2
+guercheville;-1.0
 pontoise;-0.2
 viller;-0.6
 serres;-0.4
@@ -6080,7 +6080,7 @@ suilly-la-tour;-0.6
 la lande-saint-simeon;-0.2
 barrancoueu;0.0
 puyoo;-0.2
-rurange-les-thionville;-1.2
+rurange-les-thionville;-1.0
 reguisheim;-0.2
 cuve;0.0
 varois-et-chaignot;-0.4
@@ -6157,7 +6157,7 @@ faye-d'anjou;0.0
 corneilla-la-riviere;-0.6
 la chapelle-saint-mesmin;-0.6
 imbleville;-0.6
-le plessis-bouchard;-1.4
+le plessis-bouchard;-1.0
 monthodon;0.2
 courcelles-les-lens;-0.6
 etrechy;-0.4
@@ -6219,7 +6219,7 @@ gefosse-fontenay;-0.6
 catenoy;-0.4
 saint-jean-saverne;-0.20000002
 saint-denis-d'authou;0.4
-seraincourt;-1.2
+seraincourt;-1.0
 viols-en-laval;-0.6
 bourg-en-bresse;-0.20000002
 beaurepaire;0.0
@@ -6364,7 +6364,7 @@ dampierre-en-crot;-0.8
 andelarrot;-0.4
 gouvieux;0.0
 persan;0.0
-emerchicourt;-1.2
+emerchicourt;-1.0
 doizieux;0.0
 curgy;-0.4
 saint-paul-d'uzore;0.4
@@ -6462,7 +6462,7 @@ saint-coulitz;0.2
 chanat-la-mouteyre;0.0
 raillencourt-sainte-olle;-0.2
 renaucourt;-0.8
-herleville;-1.2
+herleville;-1.0
 bourg-charente;0.4
 montviette;0.2
 saint-paul-de-jarrat;0.8
@@ -6487,7 +6487,7 @@ sennevoy-le-bas;0.0
 barbaira;0.0
 saint-benoit;0.2
 viviers;-0.8
-audignies;-1.2
+audignies;-1.0
 cormery;-0.8
 venise;0.0
 murville;-0.6
@@ -7127,7 +7127,7 @@ bessy-sur-cure;-0.4
 peault;0.0
 willer;-1.0
 granier;-0.4
-saint-martin-du-clocher;-1.4
+saint-martin-du-clocher;-1.0
 la feree;-0.4
 plomeur;0.0
 mazirat;0.4
@@ -7314,7 +7314,7 @@ gramond;-0.2
 cuts;0.0
 montchamp;0.2
 bessines;-0.6
-francheville;-1.2
+francheville;-1.0
 pouldergat;0.0
 ochancourt;-0.8
 camplong;-0.20000002
@@ -7331,7 +7331,7 @@ lucey;-0.4
 paris-2e-arrondissement;0.2
 combloux;0.0
 le drennec;0.0
-equennes-eramecourt;-1.2
+equennes-eramecourt;-1.0
 aubagne;-0.4
 maretz;0.4
 ayzieu;0.0
@@ -7467,7 +7467,7 @@ hergugney;-1.0
 mouxy;0.0
 corcelles-les-citeaux;-0.8
 vougecourt;-0.8
-sionviller;-1.2
+sionviller;-1.0
 oermingen;-0.4
 vaupoisson;-0.2
 sainte-enimie;0.4
@@ -7689,7 +7689,7 @@ la neuville-chant-d'oisel;-0.2
 digna;0.4
 le quesnoy-en-artois;-0.4
 poggio-marinaccio;-0.2
-essigny-le-grand;-1.4
+essigny-le-grand;-1.0
 lanquetot;-0.4
 moncaup;0.2
 ecauville;-0.6
@@ -8126,7 +8126,7 @@ boisemont;-0.6
 cametours;0.0
 langonnet;0.2
 chamblet;0.0
-hermanville;-1.2
+hermanville;-1.0
 gelaucourt;-0.8
 houldizy;-0.4
 warvillers;-1.0
@@ -8168,7 +8168,7 @@ senestis;-0.4
 becquigny;0.0
 gattieres;0.0
 labastide-denat;0.4
-therouldeville;-1.2
+therouldeville;-1.0
 ige;0.0
 mareuil-en-brie;0.2
 normandel;0.0
@@ -8382,7 +8382,7 @@ paris-20e-arrondissement;0.2
 wolschheim;-0.2
 ozillac;-0.2
 laneuville-au-rupt;-0.2
-behericourt;-1.4
+behericourt;-1.0
 barnave;0.0
 rouffignac-saint-cernin-de-reilhac;-0.6
 la celle-sur-loire;-0.2
@@ -8408,7 +8408,7 @@ baron;-0.2
 allaines;0.0
 saint-hernin;-0.20000002
 auchy-les-mines;-0.8
-aulx-les-cromary;-1.2
+aulx-les-cromary;-1.0
 omonville;-0.6
 lamarche;-0.2
 fontaines-saint-clair;-1.0
@@ -8437,7 +8437,7 @@ bascous;0.0
 ondes;-0.6
 burnand;-0.4
 bizeneuille;-0.2
-franchesse;-1.2
+franchesse;-1.0
 ville-devant-chaumont;-0.2
 crenans;0.0
 le mesnil-eudes;-0.6
@@ -8458,7 +8458,7 @@ montreuil-le-henri;0.0
 millebosc;-0.2
 saint-gauderic;0.0
 pierrerue;-0.4
-fresnes-mazancourt;-1.2
+fresnes-mazancourt;-1.0
 maxent;0.0
 roquefeuil;-0.2
 saint-denis-de-jouhet;0.2
@@ -8632,7 +8632,7 @@ touille;-0.2
 lavaurette;0.0
 pernes;-0.4
 beauche;-0.2
-aurouer;-1.2
+aurouer;-1.0
 saint-just-malmont;-0.2
 chapois;0.0
 beuzeville-la-grenier;-1.0
@@ -8691,7 +8691,7 @@ tourville-en-auge;-0.2
 gaja-la-selve;0.4
 saint-firmin;0.4
 courbouzon;-0.2
-nixeville-blercourt;-1.4
+nixeville-blercourt;-1.0
 lariviere;-0.4
 fresnes-sur-marne;-0.4
 saint-hilaire-taurieux;0.2
@@ -8723,7 +8723,7 @@ saint-valerien;0.0
 l'ecouvotte;0.0
 montmurat;0.6
 arbin;0.0
-les planches-en-montagne;-1.2
+les planches-en-montagne;-1.0
 argouges;-0.4
 biermes;-0.4
 peigney;-0.4
@@ -8763,7 +8763,7 @@ sempesserre;-0.6
 dancy;-0.4
 flaujac-gare;0.0
 saint-etienne-au-mont;-0.2
-varilhes;-1.2
+varilhes;-1.0
 le barboux;0.0
 coussey;-0.4
 guillon;-0.6
@@ -8779,7 +8779,7 @@ souzay-champigny;-0.4
 rochechouart;0.2
 la mesniere;-0.4
 callian;0.4
-briquemesnil-floxicourt;-1.4
+briquemesnil-floxicourt;-1.0
 dampierre-sur-boutonne;-0.20000002
 sylvains-les-moulins;-0.4
 garlede-mondebat;0.6
@@ -8833,7 +8833,7 @@ lignieres;-0.4
 lalongue;-0.6
 tourdun;-0.4
 hem-lenglet;-0.2
-hermaville;-1.2
+hermaville;-1.0
 moncale;0.2
 croix-caluyau;0.0
 masbaraud-merignat;0.4
@@ -8888,7 +8888,7 @@ denezieres;-0.4
 trouley-labarthe;-0.2
 rille;-0.2
 taillades;-0.6
-roncherolles-sur-le-vivier;-1.2
+roncherolles-sur-le-vivier;-1.0
 etaux;0.0
 montriond;0.0
 armentieres-sur-ourcq;-0.4
@@ -9111,7 +9111,7 @@ montjean;0.6
 bouille-courdault;-0.2
 la villedieu-en-fontenette;-0.2
 bellefosse;0.2
-varengeville-sur-mer;-1.4
+varengeville-sur-mer;-1.0
 sathonay-camp;-0.2
 mezel;0.0
 montpezat-sous-bauzon;0.2
@@ -9167,7 +9167,7 @@ saint-aunix-lengros;0.8
 cassagnes;-0.4
 sainte-radegonde;0.2
 mariol;0.2
-bertincourt;-1.2
+bertincourt;-1.0
 la bouteille;-0.2
 saint-tropez;0.0
 faches-thumesnil;-0.8
@@ -9219,7 +9219,7 @@ anrosey;-0.4
 soudorgues;-0.4
 orval;-0.4
 luzy;-0.4
-vercourt;-1.2
+vercourt;-1.0
 montjean-sur-loire;0.2
 saint-maur-sur-le-loir;0.4
 oisseau-le-petit;-0.20000002
@@ -9382,7 +9382,7 @@ ville-devant-belrain;0.2
 leffincourt;-0.8
 frotey-les-vesoul;-0.4
 loison;-0.2
-vivier-au-court;-1.2
+vivier-au-court;-1.0
 tallende;0.4
 pleurtuit;-0.6
 la trancliere;-0.4
@@ -9426,7 +9426,7 @@ poullan-sur-mer;-0.8
 mouguerre;0.0
 ardelles;-0.6
 tugeras-saint-maurice;-0.8
-bayonvillers;-1.2
+bayonvillers;-1.0
 saint-ouen;0.4
 chateau-salins;0.0
 vaumas;0.0
@@ -9553,7 +9553,7 @@ vitry-en-montagne;-0.8
 bournainville-faverolles;-0.6
 thourie;0.0
 severac-l'eglise;-1.0
-presilly;-1.4
+presilly;-1.0
 sermur;-0.4
 hirel;0.0
 mont-de-marsan;0.6
@@ -9664,7 +9664,7 @@ luxe-sumberraute;-0.4
 vendoire;0.0
 saint-clair-de-halouze;0.4
 crion;-0.4
-servon-melzicourt;-1.4
+servon-melzicourt;-1.0
 cheissoux;-0.2
 dampierre-et-flee;0.0
 nonza;0.2
@@ -9998,7 +9998,7 @@ molinges;-0.4
 uzelle;-0.2
 saint-laurent-de-cerdans;0.0
 lagnes;-0.4
-heiltz-le-hutier;-1.2
+heiltz-le-hutier;-1.0
 treverec;-0.4
 l'ile-rousse;-0.2
 houtaud;-0.4
@@ -10133,7 +10133,7 @@ noyelles-en-chaussee;-0.6
 puisserguier;-0.8
 vittonville;-0.8
 dannemarie;0.0
-hemevillers;-1.2
+hemevillers;-1.0
 ecretteville-les-baons;-0.6
 isdes;-0.4
 saint-geniez;0.0
@@ -10288,7 +10288,7 @@ courcelles;-0.6
 coincy;-0.4
 reigneville-bocage;-0.2
 courances;-0.4
-hericy;-1.4
+hericy;-1.0
 barcelonnette;-0.2
 le tronchet;-0.4
 marson;0.2
@@ -10329,8 +10329,8 @@ kerfourn;-0.4
 baden;0.4
 saint-vidal;0.4
 montcey;0.2
-cressin-rochefort;-1.2
-thiescourt;-1.2
+cressin-rochefort;-1.0
+thiescourt;-1.0
 lizy-sur-ourcq;0.0
 languidic;0.4
 carignan-de-bordeaux;0.0
@@ -10497,7 +10497,7 @@ gourdon;-0.2
 montardit;0.0
 comigne;0.0
 nurlu;0.0
-theil-rabier;-1.2
+theil-rabier;-1.0
 mont-de-vougney;0.2
 isomes;-0.4
 valines;-0.4
@@ -10794,7 +10794,7 @@ porcelette;0.0
 laimont;-0.6
 saint-frajou;0.4
 le landreau;0.0
-presilly;-1.4
+presilly;-1.0
 esquay-sur-seulles;-0.4
 marcillac-saint-quentin;0.2
 pieusse;0.0
@@ -10844,7 +10844,7 @@ saint-cergues;0.0
 hindisheim;-0.2
 quelaines-saint-gault;-0.4
 vauclaix;0.0
-herqueville;-1.2
+herqueville;-1.0
 saint-ouen-d'attez;0.0
 claville;-0.6
 saint-andre-des-eaux;0.0
@@ -10880,7 +10880,7 @@ thury;-0.4
 saint-privat-de-champclos;0.8
 aingeray;-0.8
 gaillac-d'aveyron;0.2
-serecourt;-1.2
+serecourt;-1.0
 castelmaurou;0.4
 saint-louis;0.4
 croix;0.0
@@ -11102,7 +11102,7 @@ thienans;0.0
 fontaine-notre-dame;-0.6
 gueltas;0.0
 sellieres;-0.4
-turriers;-1.2
+turriers;-1.0
 charbonnieres-les-varennes;-0.6
 montfort-sur-boulzane;0.2
 saint-elix-le-chateau;0.0
@@ -11169,7 +11169,7 @@ saint-remy-de-provence;0.4
 rodalbe;0.0
 roggenhouse;0.0
 ceillac;-0.2
-auzouville-l'esneval;-1.4
+auzouville-l'esneval;-1.0
 courmenil;-0.2
 plouescat;0.0
 bazeilles;-0.6
@@ -11198,7 +11198,7 @@ quemigny-poisot;0.0
 castillon-en-auge;-0.2
 chenas;-0.2
 serres-gaston;-0.6
-bergicourt;-1.2
+bergicourt;-1.0
 marcilly-en-gault;0.2
 abscon;-0.2
 lengronne;-0.2
@@ -11265,7 +11265,7 @@ trehet;-0.2
 raucourt;-0.8
 assigny;-0.4
 codalet;0.0
-conde-les-herpy;-1.2
+conde-les-herpy;-1.0
 nantes;-0.4
 saint-thual;0.4
 mongausy;-0.2
@@ -11513,7 +11513,7 @@ buchelay;-0.6
 jaux;0.0
 bagard;-0.4
 la croix-sur-roudoule;0.0
-varennes-changy;-1.2
+varennes-changy;-1.0
 floirac;0.4
 le translay;-0.4
 orpierre;-0.4
@@ -11969,7 +11969,7 @@ maves;-0.4
 coiffy-le-haut;0.0
 naussac;0.4
 ginestet;-0.4
-herimoncourt;-1.6
+herimoncourt;-1.0
 vendemian;0.4
 landean;0.0
 bechy;0.0
@@ -12060,7 +12060,7 @@ hautaget;0.0
 saint-martin-en-bresse;-0.20000002
 ouanary;-0.4
 grossouvre;0.4
-chargey-les-gray;-1.2
+chargey-les-gray;-1.0
 burie;0.0
 blaignan;0.4
 celles;-0.6
@@ -12103,7 +12103,7 @@ rillieux-la-pape;-0.2
 algolsheim;-0.2
 thennes;-0.6
 auvernaux;-0.8
-francheville;-1.2
+francheville;-1.0
 condeon;-0.2
 lairoux;0.0
 gouraincourt;-0.8
@@ -12207,7 +12207,7 @@ vaxy;-0.4
 laucourt;-0.8
 rosbruck;0.0
 roquelaure-saint-aubin;0.0
-fresnoy-le-grand;-1.2
+fresnoy-le-grand;-1.0
 marcilly-en-villette;0.2
 villeperrot;-0.6
 rocheville;-0.8
@@ -12242,7 +12242,7 @@ seynod;0.0
 teurtheville-hague;-0.4
 mehoncourt;-1.0
 foissac;0.4
-lutter;-1.2
+lutter;-1.0
 pouilly;-0.6
 martisserre;0.0
 ternant;-0.4
@@ -12280,7 +12280,7 @@ sainte-marie;0.4
 courvaudon;-0.2
 bantanges;-0.4
 banvillars;-0.2
-aumerval;-1.2
+aumerval;-1.0
 boursies;-0.8
 bourg-le-roi;0.4
 la batie-rolland;-0.4
@@ -12363,7 +12363,7 @@ saint-aubin-de-scellon;-0.2
 beire-le-fort;-0.4
 campagnolles;0.0
 la copechagniere;-0.4
-chemilly-sur-serein;-1.2
+chemilly-sur-serein;-1.0
 mezerville;-1.0
 frehel;-0.2
 renansart;0.0
@@ -12384,7 +12384,7 @@ onesse-et-laharie;-0.8
 thonnelle;-0.2
 eglisolles;-0.6
 bois-de-gand;-0.4
-plaine-haute;1.2
+plaine-haute;1.0
 grambois;0.0
 haute-isle;0.0
 puginier;-0.8
@@ -12686,13 +12686,13 @@ viens;0.0
 mont-bernanchon;-0.20000002
 dommartin-lettree;0.0
 saint-more;0.4
-bourgtheroulde-infreville;-1.2
+bourgtheroulde-infreville;-1.0
 cheriennes;-0.20000002
 cusset;0.0
 brix;0.0
 palluau-sur-indre;0.0
 saint-gal-sur-sioule;0.2
-notre-dame-du-rocher;-1.4
+notre-dame-du-rocher;-1.0
 roclincourt;-0.4
 contrieres;-0.6
 possesse;-0.6
@@ -12883,10 +12883,10 @@ goux-sous-landet;0.0
 chaleze;0.0
 les isles-bardel;-0.4
 bugarach;0.0
-bellavilliers;-1.4
+bellavilliers;-1.0
 souain-perthes-les-hurlus;-0.6
 vermand;-0.8
-wargnies-le-grand;-1.2
+wargnies-le-grand;-1.0
 tessancourt-sur-aubette;-0.6
 lantic;0.0
 verzenay;-0.8
@@ -13389,7 +13389,7 @@ forges;-0.4
 brasles;-0.4
 saint-pal-de-mons;0.2
 cazals-des-bayles;-0.4
-morionvilliers;-1.2
+morionvilliers;-1.0
 tregrom;0.0
 ortale;-0.4
 la chapelle-hareng;-0.6
@@ -13411,7 +13411,7 @@ greolieres;-0.4
 lesseux;-0.6
 maranville;-0.6
 fye;0.0
-saint-georges-le-flechard;-1.2
+saint-georges-le-flechard;-1.0
 saint-pierre-en-faucigny;-0.4
 viviers;-0.8
 lormont;-0.6
@@ -13498,7 +13498,7 @@ boujan-sur-libron;-0.2
 brunehamel;0.0
 bremenil;-0.2
 saint-magne;0.4
-viviers-les-offroicourt;-1.2
+viviers-les-offroicourt;-1.0
 saint-aunes;0.0
 nicole;0.0
 jully-les-buxy;-0.4
@@ -14044,7 +14044,7 @@ fontaine-sur-somme;-0.2
 willeman;0.2
 la chapelle-launay;-0.6
 la cavalerie;-0.4
-dampierre-en-burly;-1.2
+dampierre-en-burly;-1.0
 le born;0.0
 bray-sur-seine;0.0
 nouvelle-eglise;-0.8
@@ -14102,7 +14102,7 @@ lachapelle-sous-chaux;0.2
 aveze;0.0
 le pechereau;-0.6
 la bouillie;-0.2
-hermeville;-1.2
+hermeville;-1.0
 poule-les-echarmeaux;-0.4
 neuvy-en-mauges;0.0
 fontainebleau;-0.2
@@ -14410,7 +14410,7 @@ anos;0.0
 reclainville;-0.6
 hundsbach;0.0
 arcachon;-0.2
-saint-romain-sur-cher;-1.4
+saint-romain-sur-cher;-1.0
 xertigny;-0.8
 fresnes-en-tardenois;-0.4
 gleize;-0.2
@@ -14568,7 +14568,7 @@ tremeven;-0.4
 cabrieres;-0.4
 saint-francois-lacroix;0.4
 vignoux-sous-les-aix;-0.4
-fressancourt;-1.4
+fressancourt;-1.0
 behasque-lapiste;0.0
 lannedern;-0.4
 villargondran;0.6
@@ -14658,7 +14658,7 @@ nalliers;-0.8
 salenthal;0.0
 thignonville;-0.6
 lewarde;0.0
-francheville;-1.2
+francheville;-1.0
 neuvilly;-0.2
 cessy;-0.8
 sacy-le-petit;-0.20000002
@@ -14702,13 +14702,13 @@ laplume;0.0
 marmouille;0.2
 soulosse-sous-saint-elophe;-0.2
 villeneuve-saint-vistre-et-villevotte;0.2
-saint-michel-d'halescourt;-1.4
+saint-michel-d'halescourt;-1.0
 josselin;0.0
 madecourt;-0.8
 ventenac-en-minervois;-0.6
 trelou-sur-marne;0.0
 bousses;-0.4
-merschweiller;-1.2
+merschweiller;-1.0
 cadarsac;0.4
 lunay;-0.4
 cuisy;-0.4
@@ -14721,7 +14721,7 @@ montireau;0.2
 mery;-0.8
 la tretoire;0.0
 fontaine-le-comte;-0.2
-audresselles;-1.2
+audresselles;-1.0
 saint-julien-sur-dheune;0.2
 durance;0.0
 saint-germier;-0.4
@@ -14925,7 +14925,7 @@ chantecorps;0.0
 vallet;0.0
 zimmerbach;-0.4
 cadeac;0.4
-flammerecourt;-1.2
+flammerecourt;-1.0
 ruffec;0.0
 saint-pere;0.0
 girondelle;-0.2
@@ -15174,7 +15174,7 @@ esparron;-0.6
 frontignan-saves;-0.20000002
 orgueil;-0.2
 kalhausen;0.0
-tellancourt;-1.2
+tellancourt;-1.0
 saint-medard-sur-ille;0.2
 bogny-sur-meuse;0.0
 hallu;0.0
@@ -15343,7 +15343,7 @@ grimonviller;-0.6
 cuinzier;-0.8
 bazoches-au-houlme;-0.6
 burgalays;0.0
-framerville-rainecourt;-1.4
+framerville-rainecourt;-1.0
 saint-lubin-de-cravant;0.4
 santa-lucia-di-mercurio;-0.20000002
 frouard;-0.4
@@ -15399,7 +15399,7 @@ melleray;-1.0
 cressy;-0.8
 deneuille-les-mines;-0.6
 le buret;0.0
-schoelcher;-1.4
+schoelcher;-1.0
 sahorre;0.0
 caussou;0.0
 ponthoile;-0.2
@@ -15706,7 +15706,7 @@ herm;-0.6
 les baties;-0.8
 esprels;-0.4
 paris-13e-arrondissement;0.2
-messincourt;-1.4
+messincourt;-1.0
 gaillac;-0.2
 pourcy;-0.4
 misson;-0.2
@@ -15872,8 +15872,8 @@ la celle;-0.2
 saint-servant;0.0
 elbeuf;-0.4
 la tour-du-crieu;0.0
-malvies;-1.2
-bertheauville;-1.2
+malvies;-1.0
+bertheauville;-1.0
 louvilliers-les-perche;-0.8
 sarton;-0.2
 vincelottes;-0.4
@@ -15968,7 +15968,7 @@ rezentieres;-0.4
 longuesse;-0.4
 sailly;-0.6
 la foret-sur-sevre;0.0
-gaillardbois-cressenville;-1.2
+gaillardbois-cressenville;-1.0
 brens;0.0
 monchaux-sur-ecaillon;-0.2
 quemperven;-0.4
@@ -16246,7 +16246,7 @@ brouckerque;-0.4
 valliguieres;-0.4
 guebenhouse;0.0
 la besseyre-saint-mary;-0.6
-blessonville;-1.2
+blessonville;-1.0
 acheres;-0.6
 cailloux-sur-fontaines;-0.6
 izeron;-0.6
@@ -16316,7 +16316,7 @@ boynes;-0.4
 revest-les-roches;-0.6
 bogeve;0.0
 longny-au-perche;-0.4
-heidwiller;-1.2
+heidwiller;-1.0
 saint-hilaire-lez-cambrai;0.2
 iffendic;0.0
 mignieres;-0.4
@@ -16483,7 +16483,7 @@ muidorge;0.0
 talasani;0.0
 marcoux;0.4
 olette;0.0
-bellicourt;-1.2
+bellicourt;-1.0
 saint-martin-du-tertre;0.0
 saint-gely-du-fesc;0.0
 annecy;-0.4
@@ -16603,7 +16603,7 @@ charny;-0.4
 merrey-sur-arce;-0.4
 montgobert;-0.20000002
 pinterville;-1.0
-arc-les-gray;-1.2
+arc-les-gray;-1.0
 bradiancourt;-0.8
 commana;0.0
 longsols;0.2
@@ -16768,7 +16768,7 @@ auvilliers-en-gatinais;-1.0
 adelange;0.0
 duclair;-0.8
 auby;-0.8
-ligescourt;-1.2
+ligescourt;-1.0
 saint-martin;0.4
 bannes;-0.4
 saint-hilaire-peyroux;0.2
@@ -16882,7 +16882,7 @@ pradines;-0.4
 etrepigny;-0.4
 montois-la-montagne;0.2
 le russey;-0.4
-berlancourt;-1.2
+berlancourt;-1.0
 saint-bonnet-de-cray;-0.2
 guincourt;-0.8
 pierre-la-treiche;-0.6
@@ -16929,7 +16929,7 @@ courcelles-epayelles;-0.6
 pannece;0.0
 bernay;-0.8
 benifontaine;-0.6
-lion-sur-mer;-1.2
+lion-sur-mer;-1.0
 froyelles;-0.6
 saint-marceau;0.4
 etouars;0.0
@@ -16985,7 +16985,7 @@ aren;0.0
 lagery;-0.8
 chalais;0.0
 lurbe-saint-christau;0.0
-chatillon-sur-cher;-1.6
+chatillon-sur-cher;-1.0
 malleloy;-0.8
 montussaint;-0.4
 bracquemont;-0.6
@@ -17017,7 +17017,7 @@ soudaine-lavinadiere;-0.4
 veilly;-0.6
 saint-gregoire;0.4
 laning;0.0
-courcelles-sous-moyencourt;-1.4
+courcelles-sous-moyencourt;-1.0
 fontenay-le-pesnel;-0.6
 monchecourt;-0.8
 saint-plaisir;0.4
@@ -17042,7 +17042,7 @@ loheac;0.2
 cazoules;-0.4
 availles-limouzine;-0.6
 quernes;-0.4
-jamericourt;-1.2
+jamericourt;-1.0
 virigneux;0.0
 freteval;-0.4
 yvoy-le-marron;-0.2
@@ -17113,7 +17113,7 @@ antheny;-0.6
 desertines;-0.4
 saint-antheme;0.2
 ouroux-sur-saone;0.2
-estrees-deniecourt;-1.2
+estrees-deniecourt;-1.0
 montagny-sainte-felicite;0.0
 pulversheim;-0.6
 villes-sur-auzon;-0.20000002
@@ -17154,7 +17154,7 @@ vandy;-0.4
 saint-martin-des-champs;-0.4
 mazeyrat-d'allier;-0.8
 creon-d'armagnac;0.2
-percey-le-grand;-1.2
+percey-le-grand;-1.0
 kienheim;-0.2
 larroque-engalin;0.0
 koungou;0.0
@@ -17167,7 +17167,7 @@ champigny-la-futelaye;0.0
 thiron-gardais;-0.2
 andryes;-0.4
 provin;0.0
-la selle-en-hermoy;-1.2
+la selle-en-hermoy;-1.0
 la roche-derrien;-0.6
 saint-pons-de-thomieres;-0.20000002
 puy-saint-vincent;0.0
@@ -17341,7 +17341,7 @@ peyssies;-0.8
 bellefonds;-0.2
 bellencombre;-0.2
 le vey;-0.4
-bernecourt;-1.2
+bernecourt;-1.0
 floirac;0.4
 capvern;-0.4
 plan-de-cuques;0.0
@@ -17387,7 +17387,7 @@ langley;0.0
 brevans;0.0
 tortisambert;-0.4
 les magnils-reigniers;-1.0
-pierrecourt;-1.2
+pierrecourt;-1.0
 amfreville;-0.6
 perpezac-le-blanc;-0.4
 nassiet;-0.4
@@ -17634,7 +17634,7 @@ massieux;0.0
 foncquevillers;-1.0
 usclades-et-rieutord;-0.4
 barras;0.0
-itterswiller;-1.2
+itterswiller;-1.0
 cuiry-housse;0.0
 braisnes-sur-aronde;-0.6
 xanrey;-0.4
@@ -18135,7 +18135,7 @@ lodes;-0.4
 hesdin-l'abbe;-0.6
 saint-denis-d'anjou;0.4
 fraissinet-de-fourques;0.0
-seraucourt-le-grand;-1.2
+seraucourt-le-grand;-1.0
 saint-ours;0.4
 crucey-villages;-0.6
 saint-julien-boutieres;0.0
@@ -18196,7 +18196,7 @@ vauxtin;0.0
 sainte-livrade;0.4
 chassagnes;-0.4
 eperlecques;-0.4
-essertines-en-donzy;-1.2
+essertines-en-donzy;-1.0
 bremondans;-0.2
 maillat;0.2
 cambon;-0.20000002
@@ -18265,7 +18265,7 @@ touffreville;-0.6
 bassuet;0.0
 sinderes;-0.4
 port-brillet;-0.2
-cabestany;-1.2
+cabestany;-1.0
 rilhac-treignac;-0.2
 erbeviller-sur-amezule;-0.6
 gourfaleur;0.0
@@ -18423,7 +18423,7 @@ ribennes;-0.4
 limans;0.0
 pointe-noire;0.0
 pagnoz;0.0
-bertoncourt;-1.4
+bertoncourt;-1.0
 saint-martin-des-lais;0.0
 linac;0.4
 pruniers;-0.8
@@ -18606,7 +18606,7 @@ mezens;0.0
 bouillancourt-en-sery;-1.0
 sainte-eusoye;0.4
 viane;0.0
-dompierre-becquincourt;-1.2
+dompierre-becquincourt;-1.0
 saint-priest-la-feuille;-0.20000002
 oison;-0.2
 beuvillers;-1.0
@@ -18635,7 +18635,7 @@ plorec-sur-arguenon;-0.2
 corcelles-en-beaujolais;-0.6
 eppeville;-0.6
 corbas;0.0
-aurelle-verlac;-1.4
+aurelle-verlac;-1.0
 saint-sylvestre;0.0
 mornac-sur-seudre;0.0
 caurel;0.0
@@ -18655,7 +18655,7 @@ noisy-le-grand;0.0
 drevant;0.0
 villeperdue;-0.20000002
 saint-maurice-des-noues;0.0
-hernicourt;-1.4
+hernicourt;-1.0
 contes;-0.6
 laurens;0.0
 valz-sous-chateauneuf;0.0
@@ -18709,7 +18709,7 @@ madonne-et-lamerey;-0.6
 vauxaillon;-0.6
 barret;0.0
 coux;0.0
-hervilly;-1.2
+hervilly;-1.0
 veckersviller;-1.0
 cravanche;0.2
 giroux;0.0
@@ -19060,7 +19060,7 @@ les halles;-0.4
 gannay-sur-loire;0.4
 la liviniere;-0.4
 arbanats;0.0
-eschentzwiller;-1.2
+eschentzwiller;-1.0
 saint-marcel-de-careiret;0.4
 nuaille;-0.2
 schnersheim;-0.6
@@ -19132,7 +19132,7 @@ macquigny;-0.4
 saint-desire;0.0
 sainte-colombe-la-commanderie;0.0
 grosbois-en-montagne;-0.2
-evergnicourt;-1.2
+evergnicourt;-1.0
 coubeyrac;0.4
 la chapelle-marcousse;-0.2
 saint-ismier;-0.4
@@ -19211,7 +19211,7 @@ cambiac;0.4
 feux;0.0
 rouffignac-de-sigoules;-0.4
 le vigean;0.4
-herbecourt;-1.4
+herbecourt;-1.0
 ouroux-sous-le-bois-sainte-marie;0.4
 jetterswiller;-1.0
 nouvion-le-vineux;-0.4
@@ -19231,7 +19231,7 @@ les rairies;-0.8
 la chapelle-saint-ursin;-0.2
 badmenil-aux-bois;0.2
 reuil-sur-breche;-0.4
-tavaux-et-pontsericourt;-1.4
+tavaux-et-pontsericourt;-1.0
 sausses;-0.4
 rosieres-aux-salines;-0.4
 courcelles-sur-blaise;-0.6
@@ -19339,7 +19339,7 @@ tourouvre;0.0
 parentis-en-born;0.0
 lantignie;0.0
 landos;0.4
-saint-tugdual;-1.2
+saint-tugdual;-1.0
 thun-saint-martin;0.0
 gouy-sous-bellonne;-0.2
 vitry-sur-seine;-0.2
@@ -19361,7 +19361,7 @@ chatas;0.0
 les cheres;-0.6
 charmensac;0.4
 figeac;0.4
-ressons-le-long;-1.2
+ressons-le-long;-1.0
 hazebrouck;0.0
 lutterbach;-0.4
 argelouse;0.0
@@ -19434,7 +19434,7 @@ mauran;0.4
 angles;-0.4
 bracquetuit;-0.6
 saint-gregoire-d'ardennes;0.0
-pont-bellanger;-1.4
+pont-bellanger;-1.0
 ambax;0.0
 vrigny;-0.4
 guebwiller;-1.0
@@ -19511,7 +19511,7 @@ eguilles;-0.6
 lanne;0.0
 conliege;-0.2
 nogent-sur-aube;0.0
-sericourt;-1.2
+sericourt;-1.0
 sentenac-d'oust;0.0
 pire-sur-seiche;-0.20000002
 anville;-0.6
@@ -19661,7 +19661,7 @@ bethencourt-sur-mer;-1.0
 aix-en-diois;-0.2
 longaulnay;0.2
 murles;-0.4
-viger;-1.2
+viger;-1.0
 bures;-0.4
 parigne-sur-braye;0.4
 glenat;0.4
@@ -20037,7 +20037,7 @@ roura;0.4
 orliac;0.4
 saint-antoine;0.4
 lagrange;0.0
-truttemer-le-grand;-1.2
+truttemer-le-grand;-1.0
 chassagne-saint-denis;0.0
 faucogney-et-la-mer;-0.8
 glos-sur-risle;0.0
@@ -20084,7 +20084,7 @@ estry;-0.8
 beauval;-0.4
 hiers-brouage;-0.4
 saint-blaise-du-buis;0.0
-fouquescourt;-1.2
+fouquescourt;-1.0
 vaudeville;-0.6
 riec-sur-belon;-0.6
 vigneulles;-0.4
@@ -20190,7 +20190,7 @@ saint-michel-en-l'herm;-0.20000002
 loc-brevalaire;0.0
 saint-leger-des-aubees;0.0
 saint-aubin-du-pavail;-0.20000002
-athee-sur-cher;-1.4
+athee-sur-cher;-1.0
 razimet;0.0
 eichhoffen;-0.8
 bujaleuf;0.0
@@ -20404,7 +20404,7 @@ champs-sur-tarentaine-marchal;0.0
 voyennes;-0.4
 sorges;-0.4
 laperche;-0.6
-lariviere-arnoncourt;-1.4
+lariviere-arnoncourt;-1.0
 sedan;0.4
 fressines;-0.6
 saint-macaire-en-mauges;0.0
@@ -20450,7 +20450,7 @@ manthelan;-0.2
 suce-sur-erdre;-0.4
 molesmes;-0.4
 genat;0.4
-plichancourt;-1.2
+plichancourt;-1.0
 bailleul-le-soc;-0.2
 arc-sous-cicon;-0.2
 cagnotte;0.0
@@ -20553,7 +20553,7 @@ rouville;-0.6
 flagey;-0.4
 lentillac-du-causse;-0.6
 metzeral;-0.4
-auzainvilliers;-1.4
+auzainvilliers;-1.0
 le monastier-sur-gazeille;-0.6
 perrigny;-0.8
 lanmeur;0.0
@@ -20743,7 +20743,7 @@ loisy-en-brie;0.0
 varenguebec;-0.8
 saint-martin-du-bec;-0.4
 quilly;-0.6
-saint-erme-outre-et-ramecourt;-1.2
+saint-erme-outre-et-ramecourt;-1.0
 tilly-la-campagne;-0.6
 guichen;-0.6
 illfurth;0.2
@@ -20884,7 +20884,7 @@ meyreuil;-0.2
 vouxey;-0.4
 serez;-0.8
 montbron;0.2
-bermericourt;-1.2
+bermericourt;-1.0
 chevigny;-0.6
 segura;0.4
 glatens;0.0
@@ -20937,7 +20937,7 @@ puycalvel;0.0
 eton;-0.2
 saint-jans-cappel;0.4
 barbaggio;0.2
-herlincourt;-1.4
+herlincourt;-1.0
 letricourt;-0.8
 villette-de-vienne;0.2
 saint-euphrone;0.2
@@ -21044,7 +21044,7 @@ enveitg;-0.2
 vieille-chapelle;-0.6
 louppy-sur-loison;-0.2
 auzeville-tolosane;-1.0
-verneuil-grand;-1.4
+verneuil-grand;-1.0
 cuon;-0.2
 pimbo;0.4
 monceau-les-leups;-0.20000002
@@ -21384,8 +21384,8 @@ acon;-0.2
 voutezac;0.4
 saint-andre-d'allas;0.4
 breteuil;-0.2
-vert-le-grand;-1.2
-herqueville;-1.2
+vert-le-grand;-1.0
+herqueville;-1.0
 farincourt;-0.8
 saint-aubin-des-bois;0.0
 le cannet-des-maures;-0.4
@@ -21540,7 +21540,7 @@ ruffey-le-chateau;-0.4
 tanzac;0.8
 gaillan-en-medoc;0.2
 conde-sur-noireau;-0.2
-francheville;-1.2
+francheville;-1.0
 eguzon-chantome;-0.2
 le pin;0.0
 olmeta-di-tuda;-0.4
@@ -21722,7 +21722,7 @@ auxange;-0.4
 roche-les-clerval;-0.6
 chenedouit;-0.2
 montmaur;0.2
-bessonies;-1.2
+bessonies;-1.0
 saint-maurice-de-tavernole;0.0
 osse;0.0
 madriat;0.8
@@ -21996,7 +21996,7 @@ brissac;0.4
 betz;0.0
 saint-prix;0.4
 montfalcon;0.2
-epertully;-1.2
+epertully;-1.0
 soultz-sous-forets;0.0
 marchastel;0.4
 steinbourg;-0.4
@@ -22098,16 +22098,16 @@ chevrier;-1.0
 ornaisons;-0.2
 came;0.0
 la chapelle-saint-luc;-0.2
-aulnoye-aymeries;-1.2
+aulnoye-aymeries;-1.0
 le marigot;0.0
 andelain;0.0
-malandry;-1.2
+malandry;-1.0
 dammartin-marpain;0.0
 guegon;-0.2
 saint-etienne-de-lugdares;0.0
 tasque;0.4
 neuilly-les-dijon;-0.20000002
-auberville;-1.4
+auberville;-1.0
 guilligomarc'h;-0.2
 foissy;-0.4
 poisieux;-0.4
@@ -22122,7 +22122,7 @@ noroy;-0.4
 saint-frejoux;0.4
 lies;-0.8
 danze;0.0
-mericourt;-1.2
+mericourt;-1.0
 saint-jean-de-bonneval;-0.2
 monterolier;-0.6
 sauret-besserve;-0.6
@@ -22256,12 +22256,12 @@ vidouville;-0.6
 laneuveville-devant-bayon;-0.4
 saint-vincent-de-paul;0.4
 kirsch-les-sierck;-0.4
-heillecourt;-1.2
+heillecourt;-1.0
 pont-l'eveque;-0.2
 rountzenheim;-0.2
 saint-sardos;0.8
 vindelle;-0.2
-roncherolles-en-bray;-1.2
+roncherolles-en-bray;-1.0
 vellevans;-0.2
 niederbruck;-0.4
 chagny;-0.4
@@ -22409,7 +22409,7 @@ frayssinet;-0.4
 asnieres-en-montagne;-1.0
 saint-priest-la-roche;-0.20000002
 oris-en-rattier;-0.8
-aufferville;-1.4
+aufferville;-1.0
 sorrus;0.0
 pont-de-buis-les-quimerch;-0.6
 saint-regle;0.4
@@ -22614,7 +22614,7 @@ chaulgnes;-0.4
 ris;0.0
 mauzun;0.0
 falicon;-0.2
-herenguerville;-1.2
+herenguerville;-1.0
 oiselay-et-grachaux;0.0
 douilly;-0.6
 bourbriac;0.4
@@ -22684,7 +22684,7 @@ bazouges-la-perouse;-0.4
 saint-vrain;0.4
 dun-sur-meuse;-0.4
 saint-daunes;0.0
-aurions-idernes;-1.2
+aurions-idernes;-1.0
 saint-bonnet-de-chavagne;0.2
 thiraucourt;-0.8
 saint-mard;0.0
@@ -22867,7 +22867,7 @@ carnoet;0.0
 murat;0.4
 mouthe;0.2
 l'isle-bouzon;-0.2
-donchery;-1.2
+donchery;-1.0
 le chesnay;-1.0
 crevin;0.0
 cheyssieu;-0.6
@@ -22949,7 +22949,7 @@ payssous;0.0
 auchel;-0.6
 seux;0.0
 montain;0.2
-jonchery;-1.2
+jonchery;-1.0
 saint-corneille;0.2
 arbrissel;0.0
 saint-martin-de-seignanx;0.4
@@ -23119,7 +23119,7 @@ bourg-archambault;0.4
 emanville;-0.6
 chevincourt;-1.0
 saint-vigor-des-mezerets;0.0
-chatres-sur-cher;-1.4
+chatres-sur-cher;-1.0
 saint-jean-saint-nicolas;0.2
 vialer;-0.8
 brignac;0.4
@@ -23231,7 +23231,7 @@ barchain;0.0
 vaux;0.0
 wargnies;-0.8
 bistroff;0.0
-gonfreville-l'orcher;-1.6
+gonfreville-l'orcher;-1.0
 pleuvezain;0.0
 saint-rirand;0.0
 sancy;-0.4
@@ -23283,10 +23283,10 @@ avreuil;-0.2
 gauchin-verloingt;0.0
 mandres-la-cote;-0.4
 ardelu;0.0
-le plessier-rozainvillers;-1.2
+le plessier-rozainvillers;-1.0
 ouilly-du-houley;-1.0
 altwiller;-0.6
-richecourt;-1.4
+richecourt;-1.0
 rennes-les-bains;-0.4
 liffol-le-petit;-0.20000002
 les noes;-0.4
@@ -23471,7 +23471,7 @@ altagene;0.4
 malling;-0.4
 maisoncelles-en-brie;-0.6
 auriol;-0.6
-scionzier;-1.2
+scionzier;-1.0
 ocana;0.0
 jure;0.0
 saint-amour;0.4
@@ -23496,7 +23496,7 @@ saint-pierre-de-nogaret;0.0
 la grande-fosse;0.4
 saint-hilaire-de-chaleons;0.2
 saccourvielle;-0.2
-saint-florent-sur-cher;-1.4
+saint-florent-sur-cher;-1.0
 monoblet;0.2
 neuilly-sur-eure;0.2
 saint-pierre-du-champ;0.0
@@ -23536,7 +23536,7 @@ la motte-saint-martin;0.0
 chenedolle;-0.2
 peyroules;-0.4
 marchesieux;-0.20000002
-mereaucourt;-1.2
+mereaucourt;-1.0
 lissey;-0.4
 montceaux;0.2
 missy;-0.4
@@ -23837,7 +23837,7 @@ forbach;0.0
 marigny-saint-marcel;0.4
 sannois;0.0
 pierrefeu-du-var;-0.4
-herouville;-1.2
+herouville;-1.0
 jaudrais;0.0
 saint-martin-les-melle;-0.20000002
 saffres;-0.4
@@ -23933,7 +23933,7 @@ sochaux;0.0
 bouy-sur-orvin;0.0
 courdemanche;0.2
 le fleix;-0.2
-charenton-du-cher;-1.6
+charenton-du-cher;-1.0
 chantenay-saint-imbert;-0.4
 saint-vran;0.8
 blandy;0.0
@@ -23942,7 +23942,7 @@ saint-couat-d'aude;0.4
 saux;0.0
 villecomtal-sur-arros;0.6
 saint-oulph;0.4
-la chapelle-faucher;-1.6
+la chapelle-faucher;-1.0
 marcilly-sur-vienne;0.2
 tancon;0.2
 saint-juan;0.8
@@ -23951,7 +23951,7 @@ varennes;-0.8
 saint-etienne-de-gourgas;0.4
 greux;0.0
 dornecy;-0.4
-herbeuville;-1.2
+herbeuville;-1.0
 anzy-le-duc;-0.4
 renaison;-0.2
 hannonville-suzemont;-0.6
@@ -24302,7 +24302,7 @@ boisseau;0.0
 narcy;-0.4
 geffosses;-0.4
 vezillon;-0.6
-bioncourt;-1.2
+bioncourt;-1.0
 larmor-baden;0.0
 les authieux-sur-calonne;-0.6
 velleminfroy;-0.6
@@ -24416,7 +24416,7 @@ saint-remy-la-varenne;0.4
 carrepuis;0.0
 acquigny;-0.4
 saint-alban-des-villards;-0.20000002
-fericy;-1.2
+fericy;-1.0
 richtolsheim;-0.20000002
 salignac-eyvigues;-0.4
 neuffons;0.2
@@ -24668,7 +24668,7 @@ souance-au-perche;-0.6
 pace;0.0
 milhac-de-nontron;-0.2
 alby-sur-cheran;-0.6
-cossesseville;-1.2
+cossesseville;-1.0
 la chapelle;-0.6
 pouzolles;-0.4
 longueval-barbonval;0.2
@@ -24701,7 +24701,7 @@ bouquemaison;-0.2
 sainte-colome;0.4
 le deluge;0.0
 xermamenil;-0.6
-dameraucourt;-1.2
+dameraucourt;-1.0
 hunspach;0.0
 montesquieu;-0.20000002
 menerville;-1.0
@@ -24883,10 +24883,10 @@ pruille-le-chetif;-0.4
 bacouel;0.0
 montgaillard;-0.2
 montchalons;0.2
-variscourt;-1.2
+variscourt;-1.0
 saint-leger-de-fougeret;0.0
-aubergenville;-1.4
-arzenc-d'apcher;-1.4
+aubergenville;-1.0
+arzenc-d'apcher;-1.0
 champagney;-0.4
 conde-sur-risle;-0.2
 domart-sur-la-luce;0.0
@@ -24897,7 +24897,7 @@ lichtenberg;-0.4
 leval;-0.4
 berneuil;-0.6
 saint-paulet;0.4
-la madeleine-de-nonancourt;-1.2
+la madeleine-de-nonancourt;-1.0
 verrieres;-0.4
 chissey-en-morvan;0.4
 pere;-0.4
@@ -25142,7 +25142,7 @@ ognon;-0.2
 saint-antoine-l'abbaye;0.4
 tanques;0.0
 lantriac;0.4
-vauchelles-les-quesnoy;-1.2
+vauchelles-les-quesnoy;-1.0
 kemplich;-0.4
 nanteuil-les-meaux;-0.6
 semeacq-blachon;-0.2
@@ -25160,7 +25160,7 @@ saint-julien;0.4
 serignac-sur-garonne;-0.6
 lanrodec;0.0
 husseren-wesserling;-0.8
-ailly-le-haut-clocher;-1.6
+ailly-le-haut-clocher;-1.0
 saint-philbert-des-champs;-0.6
 fontaines-sur-saone;-0.6
 balbins;0.0
@@ -25441,7 +25441,7 @@ villebadin;0.2
 vignieu;0.0
 sainte-radegonde;0.2
 bretoncelles;-0.6
-seraincourt;-1.2
+seraincourt;-1.0
 fronsac;0.2
 cires;-0.4
 sancergues;-0.4
@@ -25498,7 +25498,7 @@ saint-etienne-de-vicq;0.4
 lannebert;-0.4
 sainte-marie;0.4
 encourtiech;0.0
-dun-sur-grandry;-1.2
+dun-sur-grandry;-1.0
 vieilmoulin;-0.2
 bois-de-champ;0.0
 biol;-0.2
@@ -25538,7 +25538,7 @@ laveyrune;0.0
 balleroy;-0.8
 segre;0.0
 morzine;0.0
-cambronne-les-ribecourt;-1.4
+cambronne-les-ribecourt;-1.0
 pierrefitte-es-bois;-0.6
 bouvaincourt-sur-bresle;-0.4
 la chapelle-chaussee;-0.2
@@ -25726,7 +25726,7 @@ saint-paul-mont-penit;0.0
 boulbon;-0.20000002
 giscos;0.4
 loire-sur-rhone;-0.2
-malvillers;-1.4
+malvillers;-1.0
 cherisay;-0.6
 baliracq-maumusson;-0.2
 saint-georges-de-montaigu;-0.20000002
@@ -25746,7 +25746,7 @@ viessoix;-0.6
 bidarray;-0.4
 genouilly;-0.6
 senac;0.4
-la chapelle-themer;-1.2
+la chapelle-themer;-1.0
 manas-bastanous;-0.2
 saint-jean-de-maruejols-et-avejan;0.2
 caylus;0.0
@@ -25923,7 +25923,7 @@ meythet;-0.2
 berjou;-0.4
 maucor;0.0
 surba;0.4
-aubervilliers;-1.4
+aubervilliers;-1.0
 saint-marcel;0.4
 marnaves;0.0
 plougras;0.0
@@ -26133,7 +26133,7 @@ vellefaux;-0.6
 predefin;-0.4
 saint-gilles-croix-de-vie;-0.20000002
 la chapelle-moutils;-0.2
-auchy-lez-orchies;-1.2
+auchy-lez-orchies;-1.0
 villiers-sur-seine;-0.20000002
 hauteroche;-0.6
 natzwiller;-1.0
@@ -26174,7 +26174,7 @@ orliac-de-bar;0.0
 fourneaux;0.0
 bussy;-0.4
 brusvily;-0.6
-cheffreville-tonnencourt;-1.2
+cheffreville-tonnencourt;-1.0
 kurtzenhouse;0.0
 chassille;-0.2
 garnay;0.0
@@ -26235,7 +26235,7 @@ perigne;-0.4
 roucamps;0.0
 renty;-0.4
 montepreux;0.2
-licheres-pres-aigremont;-1.2
+licheres-pres-aigremont;-1.0
 chenieres;-0.6
 hennecourt;-1.0
 prats-de-carlux;0.0
@@ -26297,7 +26297,7 @@ morancourt;-0.8
 niederroedern;-0.4
 saint-andre-de-roquelongue;0.2
 villetritouls;0.0
-puilacher;-1.6
+puilacher;-1.0
 varmonzey;-1.0
 aigueze;0.0
 saint-didier-la-foret;-0.4
@@ -26511,7 +26511,7 @@ oudan;0.4
 ecuelin;0.0
 forges-la-foret;-0.8
 paizay-le-chapt;-0.4
-athesans-etroitefontaine;-1.2
+athesans-etroitefontaine;-1.0
 latrille;-0.2
 jarnages;-0.4
 tigny-noyelle;-0.2
@@ -26558,7 +26558,7 @@ les anses-d'arlet;-0.4
 jossigny;-0.4
 messeme;-0.6
 pont-hebert;-0.8
-la ferriere-bochard;-1.2
+la ferriere-bochard;-1.0
 villelongue-de-la-salanque;0.6
 saint-michel-de-rieufret;-0.20000002
 saint-meme-le-tenu;0.4
@@ -26582,7 +26582,7 @@ agny;-0.4
 cucugnan;0.4
 morlac;0.0
 saint-auban;0.8
-auxon-dessous;-1.2
+auxon-dessous;-1.0
 placy;0.0
 massiges;0.0
 bazoges-en-paillers;-1.0
@@ -26644,7 +26644,7 @@ grening;0.0
 beaucourt;0.0
 remaucourt;-0.8
 saulchoy;-0.4
-gernicourt;-1.2
+gernicourt;-1.0
 peyrelevade;0.0
 parranquet;0.0
 saint-mard-les-rouffy;-0.4
@@ -26721,7 +26721,7 @@ saint-barthelemy;-0.2
 la caunette;0.0
 saint-georges-de-levejac;0.4
 gavres;0.0
-stundwiller;-1.2
+stundwiller;-1.0
 evricourt;-0.8
 ploufragan;0.4
 montoussin;0.2
@@ -26761,7 +26761,7 @@ congy;-0.6
 manneville-la-raoult;-0.2
 terroles;-0.4
 saint-andre-des-eaux;0.0
-lessard-le-national;-1.2
+lessard-le-national;-1.0
 passavant-la-rochere;-0.6
 laval-sur-tourbe;0.0
 savigny-sur-braye;0.0
@@ -27263,7 +27263,7 @@ cambes-en-plaine;-0.4
 avon-les-roches;-0.8
 meauzac;0.4
 rieucaze;0.0
-levesville-la-chenard;-1.2
+levesville-la-chenard;-1.0
 balaiseaux;0.0
 puisieux;-0.4
 charritte-de-bas;-0.20000002
@@ -27306,7 +27306,7 @@ norges-la-ville;-1.0
 le tourneur;0.0
 drucat;0.4
 viriat;0.4
-auberville-la-campagne;-1.4
+auberville-la-campagne;-1.0
 aubres;-0.8
 fay;-0.4
 saint-didier-sur-chalaronne;-0.20000002
@@ -27358,7 +27358,7 @@ arcy-sainte-restitue;-1.0
 puligny-montrachet;-0.4
 belmont;-0.6
 saint-clement-sur-durance;0.0
-saint-chely-d'apcher;-1.4
+saint-chely-d'apcher;-1.0
 bourreac;0.4
 oucques;-0.4
 carency;-0.4
@@ -27400,10 +27400,10 @@ estourmel;-0.4
 la neuveville-sous-chatenois;-0.2
 laveyssiere;-0.4
 oignies;-0.8
-rouesse-fontaine;-1.2
+rouesse-fontaine;-1.0
 notre-dame-de-l'osier;-0.8
 garges-les-gonesse;-0.4
-bouchevilliers;-1.2
+bouchevilliers;-1.0
 marmagne;0.4
 port-vendres;-0.4
 vezelois;0.0
@@ -27796,7 +27796,7 @@ sichamps;-0.8
 soucirac;0.4
 viel-arcy;-0.4
 bournoncle-saint-pierre;-0.6
-blerancourt;-1.2
+blerancourt;-1.0
 mazerolles-le-salin;-0.4
 ile-de-batz;-0.2
 loubeyrat;0.4
@@ -27812,7 +27812,7 @@ saint-leger-de-peyre;0.0
 chevigny-en-valiere;-0.6
 cesarville-dossainville;-0.6
 soissons;-0.2
-le petit-pressigny;-1.2
+le petit-pressigny;-1.0
 marnes-la-coquette;0.0
 saint-jean-de-linieres;-0.20000002
 saint-remy;0.0
@@ -27894,7 +27894,7 @@ chateauredon;-0.2
 prefailles;-0.6
 togny-aux-boeufs;0.0
 mauvezin-de-sainte-croix;0.0
-la chapelle-hermier;-1.2
+la chapelle-hermier;-1.0
 epinonville;-0.6
 saint-martin-de-fraigneau;0.4
 montousse;0.2
@@ -28003,7 +28003,7 @@ ruages;-0.4
 goeulzin;0.0
 saint-quentin-de-baron;0.2
 valonne;-0.2
-verricourt;-1.2
+verricourt;-1.0
 launoy;-0.4
 hamblain-les-pres;-0.4
 draguignan;0.4
@@ -28013,7 +28013,7 @@ la repara-auriples;-0.4
 ambes;-0.4
 faucon-de-barcelonnette;-0.2
 chauvincourt-provemont;-0.6
-chesnois-auboncourt;-1.6
+chesnois-auboncourt;-1.0
 saint-gervazy;-0.4
 aix-les-bains;-0.4
 beaulieu-en-argonne;-0.2
@@ -28437,7 +28437,7 @@ les bordes-aumont;-1.0
 frapelle;-0.2
 marsangis;0.4
 cognac;0.4
-vittoncourt;-1.2
+vittoncourt;-1.0
 mons-en-laonnois;0.2
 ventabren;0.0
 bouilly;-0.6
@@ -28711,7 +28711,7 @@ lescouet-gouarec;-0.4
 vaire;0.0
 beugin;0.0
 geu;0.0
-malavillers;-1.4
+malavillers;-1.0
 montliot-et-courcelles;-0.4
 beaufai;0.0
 bretteville-saint-laurent;-0.2
@@ -28724,7 +28724,7 @@ fontaine-le-pin;-0.2
 grand-camp;0.0
 ploubalay;-0.4
 sainghin-en-weppes;-0.6
-ponches-estruval;-1.2
+ponches-estruval;-1.0
 saint-laurent-de-levezou;0.4
 saint-auvent;0.4
 montirat;0.6
@@ -28870,7 +28870,7 @@ piegon;-0.2
 draix;0.0
 barzy-en-thierache;-0.6
 dieffenthal;0.0
-varennes-le-grand;-1.6
+varennes-le-grand;-1.0
 la chapelle-geneste;-0.6
 bessay;-1.0
 pescadoires;-0.4
@@ -29003,7 +29003,7 @@ la ferriere-au-doyen;-0.4
 nadillac;-0.2
 beautot;-0.4
 chamalieres;-0.4
-herpelmont;-1.2
+herpelmont;-1.0
 joursac;0.4
 saint-chamant;0.4
 villebarou;0.2
@@ -29291,7 +29291,7 @@ castera-lectourois;-0.4
 belleydoux;-1.0
 argelos;0.0
 brunet;-0.4
-aisey-et-richecourt;-1.4
+aisey-et-richecourt;-1.0
 vaudrivillers;-1.0
 sure;0.0
 bonzac;0.2
@@ -29319,7 +29319,7 @@ labesserette;-0.6
 preporche;-0.2
 bouttencourt;-0.8
 saint-bonnet-de-condat;0.6
-wambercourt;-1.2
+wambercourt;-1.0
 vienne-en-arthies;-0.8
 saint-georges-sur-loire;0.0
 flaujac-poujols;0.0
@@ -29377,7 +29377,7 @@ soucht;0.0
 montagnieu;0.2
 beauvoir-wavans;-0.2
 flagy;-0.4
-bichancourt;-1.2
+bichancourt;-1.0
 livilliers;-1.0
 torcy-en-valois;0.0
 chouzelot;0.0
@@ -29403,7 +29403,7 @@ isola;0.4
 garrevaques;0.0
 la motte-fouquet;0.0
 vendegies-sur-ecaillon;-1.0
-fressenneville;-1.2
+fressenneville;-1.0
 pont-saint-martin;-0.2
 habere-lullin;-0.4
 bergbieten;-0.4
@@ -29425,9 +29425,9 @@ saint-didier-d'aussiat;0.4
 saint-jean-les-longuyon;-0.4
 montregard;-0.2
 savigny-sur-orge;0.0
-aubercourt;-1.2
+aubercourt;-1.0
 bezange-la-grande;0.0
-heining-les-bouzonville;-1.2
+heining-les-bouzonville;-1.0
 saint-pardoux;-0.4
 ebersheim;-0.6
 fontaine-sur-ay;-0.6
@@ -29618,7 +29618,7 @@ bosc-hyons;-0.4
 plassac;0.8
 allamont;-0.2
 saint-aupre;0.4
-scherwiller;-1.2
+scherwiller;-1.0
 montigny;0.2
 mercoeur;-0.4
 elesmes;-0.4
@@ -29636,7 +29636,7 @@ feldbach;0.0
 buceels;0.0
 forcelles-saint-gorgon;-0.6
 bourgnac;0.8
-herouville-saint-clair;-1.2
+herouville-saint-clair;-1.0
 vandeleville;-0.6
 ruffey-les-beaune;-0.4
 barzun;0.0
@@ -29746,7 +29746,7 @@ villers-rotin;-0.20000002
 chauvac-laux-montaux;-0.2
 coulours;0.0
 beaufremont;-0.6
-cauroy-les-hermonville;-1.2
+cauroy-les-hermonville;-1.0
 meux;0.0
 duffort;-0.8
 premeyzel;0.0
@@ -29827,7 +29827,7 @@ chevannes-changy;-1.0
 helette;-0.2
 oisemont;-0.6
 corbere;-0.4
-pont-d'hery;-1.2
+pont-d'hery;-1.0
 mary-sur-marne;0.4
 burlats;0.0
 aigre;0.0
@@ -29904,7 +29904,7 @@ mirbel;0.0
 georfans;0.0
 vouarces;-0.4
 brezilhac;0.2
-heuilley-le-grand;-1.2
+heuilley-le-grand;-1.0
 sermoyer;-0.4
 molesme;-0.4
 bienville;-0.6
@@ -30075,7 +30075,7 @@ frayssinet-le-gelat;0.4
 combree;0.0
 marchaux;0.4
 aubigny-les-pothees;-1.0
-mittainvilliers;-1.2
+mittainvilliers;-1.0
 saint-caprais-de-bordeaux;0.4
 lille;-0.2
 brognard;-0.4
@@ -30116,7 +30116,7 @@ grand;-0.4
 quiberon;-0.6
 coulonges-thouarsais;-0.6
 saint-maximin;0.4
-acquin-westbecourt;-1.4
+acquin-westbecourt;-1.0
 baisieux;-0.4
 les chambres;-0.4
 la brosse-montceaux;-0.2
@@ -30314,7 +30314,7 @@ entrevennes;-0.4
 helfrantzkirch;-0.2
 la chapelle-janson;-0.2
 saint-genis;0.4
-neuvic-entier;-1.2
+neuvic-entier;-1.0
 saint-ceneri-le-gerei;0.0
 archamps;-0.4
 chanteau;0.0
@@ -30339,14 +30339,14 @@ montpothier;-0.6
 montmeillant;0.2
 fresnoy-la-riviere;-0.4
 kerlaz;-0.4
-bermicourt;-1.2
+bermicourt;-1.0
 rians;0.0
 batz-sur-mer;-0.8
 ferrieres-saint-mary;-0.8
 vanlay;-0.4
 donnay;-0.6
 ames;-0.4
-bertricourt;-1.2
+bertricourt;-1.0
 saint-bres;0.0
 rogna;0.4
 yssingeaux;0.0
@@ -30464,7 +30464,7 @@ saint-sauflieu;0.4
 gogney;-0.4
 saint-pardoux-isaac;0.8
 milhac;0.2
-bessancourt;-1.4
+bessancourt;-1.0
 villiers-le-sec;-0.20000002
 saint-geraud-de-corps;0.0
 orion;-0.4
@@ -30569,7 +30569,7 @@ tremoins;0.0
 noellet;-0.2
 saint-germain-de-la-grange;0.0
 billy;-0.6
-willeroncourt;-1.4
+willeroncourt;-1.0
 ymeray;-0.8
 brette-les-pins;-0.4
 rilly-sur-aisne;-0.2
@@ -30667,7 +30667,7 @@ guesnes;-0.4
 la chapelle-saint-ouen;-0.2
 grand-verly;-0.8
 offroicourt;-0.8
-herbeville;-1.2
+herbeville;-1.0
 fontaine-chalendray;-0.6
 amettes;-0.4
 saint-thome;0.4
@@ -31010,7 +31010,7 @@ cambounet-sur-le-sor;0.0
 montabon;0.19999999
 trensacq;0.0
 villethierry;-0.20000002
-oulches-la-vallee-foulon;-1.2
+oulches-la-vallee-foulon;-1.0
 villeneuve-le-roi;0.2
 plaudren;0.4
 le bourg-dun;-0.4
@@ -31118,7 +31118,7 @@ le pre-d'auge;0.0
 civry;-0.4
 la segalassiere;-0.4
 meulles;-0.4
-la trinite-de-thouberville;-1.2
+la trinite-de-thouberville;-1.0
 bonvillet;0.2
 chantemerle-les-bles;-0.4
 monnaie;0.6
@@ -31163,7 +31163,7 @@ vaite;-0.2
 la souterraine;-0.4
 petit-failly;-0.4
 goldbach-altenbach;0.0
-saint-brancher;-1.4
+saint-brancher;-1.0
 villeneuve-la-riviere;-0.20000002
 saint-roman-de-codieres;0.0
 feucherolles;-0.6
@@ -31200,7 +31200,7 @@ saint-etienne-a-arnes;0.0
 vigny;-0.4
 bethonvilliers;-1.0
 saint-pierre-d'alvey;-0.4
-azay-sur-cher;-1.4
+azay-sur-cher;-1.0
 waville;-0.6
 camparan;0.8
 turqueville;-0.8
@@ -31426,14 +31426,14 @@ bovee-sur-barboure;0.0
 saint-georges-les-landes;0.0
 saint-pey-d'armens;0.4
 chessy;-1.0
-besingrand;-1.2
+besingrand;-1.0
 aussonne;-0.6
 saint-jean-le-blanc;-0.20000002
 saint-medard-en-jalles;0.0
 tronget;-0.2
 la gueroulde;-0.4
 saint-polycarpe;0.4
-ercourt;-1.2
+ercourt;-1.0
 feuguerolles;-0.4
 magny-cours;0.0
 vauville;-0.6
@@ -31467,7 +31467,7 @@ saint-amand;0.0
 saint-martial;0.4
 le petit-abergement;-0.6
 muzy;-0.4
-bertrancourt;-1.2
+bertrancourt;-1.0
 plan;0.8
 saint-brice;0.4
 fontenai-les-louvets;-0.6
@@ -31537,7 +31537,7 @@ berigny;-0.8
 lamarque-rustaing;0.0
 dondas;-0.2
 vaux-en-amienois;0.0
-puttelange-les-thionville;-1.2
+puttelange-les-thionville;-1.0
 noyal-sous-bazouges;-0.4
 gournay-sur-aronde;-0.2
 saint-riquier;-0.4
@@ -31597,7 +31597,7 @@ grugies;-0.8
 bancourt;-0.8
 saint-bonnot;0.2
 l'hopital-le-grand;-1.0
-varennes-les-narcy;-1.2
+varennes-les-narcy;-1.0
 courmangoux;0.0
 viry;-0.4
 demange-aux-eaux;0.0
@@ -31708,7 +31708,7 @@ rieux;0.0
 simiane-collongue;-0.6
 contay;-0.6
 moulins-saint-hubert;0.0
-hevilliers;-1.2
+hevilliers;-1.0
 ayguesvives;-0.4
 tresques;-0.4
 mant;0.0
@@ -31755,7 +31755,7 @@ sondernach;-0.6
 albieres;-0.4
 aluze;0.0
 flagey-rigney;0.0
-clery-le-grand;-1.2
+clery-le-grand;-1.0
 le marillais;-0.2
 briare;0.0
 mornas;0.0
@@ -31877,7 +31877,7 @@ buschwiller;-1.0
 barville;-0.6
 bouxieres-aux-dames;-0.4
 longeville-en-barrois;0.2
-angerville-l'orcher;-1.2
+angerville-l'orcher;-1.0
 bezancourt;-0.8
 buais;0.0
 montesquieu;-0.20000002
@@ -32116,7 +32116,7 @@ saint-hippolyte;0.4
 la chapelle-gauthier;-1.0
 saint-andiol;0.2
 fresnes-sur-escaut;-0.4
-herbeviller;-1.2
+herbeviller;-1.0
 cazideroque;-0.4
 lamothe;-0.2
 vignacourt;-0.8
@@ -32215,7 +32215,7 @@ saint-martin-de-caralp;0.4
 champagne;0.0
 gouesnach;-0.4
 vieuvy;-0.4
-leignes-sur-fontaine;-1.2
+leignes-sur-fontaine;-1.0
 gardouch;0.4
 meyrieux-trouet;0.0
 boyer;-0.8
@@ -32303,7 +32303,7 @@ siran;0.4
 la laupie;0.0
 gruchet-le-valasse;-0.2
 maizieres-les-metz;-0.4
-hermonville;-1.2
+hermonville;-1.0
 ascain;0.0
 lacapelle-segalar;0.2
 pasilly;-1.0
@@ -32505,7 +32505,7 @@ autheux;-0.6
 clonas-sur-vareze;-0.2
 sainte-marie-kerque;0.0
 cize;0.0
-francheville;-1.2
+francheville;-1.0
 rilly-la-montagne;-0.6
 orbessan;-0.20000002
 la roquebrussanne;0.0
@@ -32573,7 +32573,7 @@ vay;-0.4
 saint-christophe-sur-le-nais;0.2
 belleville;-0.6
 oriol-en-royans;-0.2
-hermillon;-1.2
+hermillon;-1.0
 la bruguiere;-0.4
 villegusien-le-lac;-0.20000002
 mennessis;-0.6
@@ -32762,7 +32762,7 @@ saint-vincent-sur-jabron;0.2
 sainte-croix-en-plaine;0.4
 bretigney;-0.4
 saint-hilaire;0.2
-hadancourt-le-haut-clocher;-1.4
+hadancourt-le-haut-clocher;-1.0
 brugny-vaudancourt;-0.8
 mouchy-le-chatel;0.4
 cavarc;0.0
@@ -32783,7 +32783,7 @@ isches;-0.6
 breugnon;-0.2
 blomard;-0.4
 aumenancourt;-0.8
-bousseraucourt;-1.2
+bousseraucourt;-1.0
 versailleux;-0.6
 morangis;0.0
 la chapelle-saint-jean;0.2
@@ -32802,7 +32802,7 @@ saint-julien-le-pelerin;0.0
 tournai-sur-dive;0.0
 murviel-les-beziers;-0.8
 thoirette;0.0
-mallerey;-1.2
+mallerey;-1.0
 gousse;0.0
 beaussais;0.0
 templemars;0.0
@@ -32822,7 +32822,7 @@ choisel;0.0
 dampierre-sur-moivre;0.0
 premesques;-0.4
 saint-esteve-janson;-0.20000002
-louresse-rochemenier;-1.2
+louresse-rochemenier;-1.0
 courbiac;0.4
 cordes-tolosannes;-0.4
 martigny-courpierre;0.0
@@ -32913,8 +32913,8 @@ ploneour-lanvern;-0.6
 nan-sous-thil;-0.2
 saint-martin-le-pin;0.4
 tenay;-0.4
-noyers-auzecourt;-1.2
-heiwiller;-1.2
+noyers-auzecourt;-1.0
+heiwiller;-1.0
 bussieres;-0.4
 couvonges;-0.6
 dornes;-0.4
@@ -33019,7 +33019,7 @@ sem;0.0
 nouans-les-fontaines;-0.6
 grignon;-0.2
 husseren-les-chateaux;-0.4
-chevrainvilliers;-1.2
+chevrainvilliers;-1.0
 warnecourt;-0.8
 offrethun;0.0
 falvy;-0.4
@@ -33084,7 +33084,7 @@ les ventes-de-bourse;-0.4
 trebas;0.0
 canettemont;-0.6
 mamey;-0.4
-saint-julien-sur-cher;-1.4
+saint-julien-sur-cher;-1.0
 montsuzain;0.2
 galgan;0.8
 leogeats;0.0
@@ -33110,7 +33110,7 @@ tremauville;-0.6
 menigoute;0.0
 abilly;-0.6
 ville-sous-la-ferte;-0.20000002
-mericourt;-1.2
+mericourt;-1.0
 saint-guillaume;0.2
 pelousey;-0.4
 monistrol-d'allier;-0.6
@@ -33202,7 +33202,7 @@ haravilliers;-1.0
 nancois-le-grand;-0.8
 buncey;-0.4
 droiturier;-1.0
-dernancourt;-1.2
+dernancourt;-1.0
 savenay;-0.4
 billy-les-chanceaux;-0.6
 saint-sauveur-sur-tinee;0.4
@@ -33239,7 +33239,7 @@ villeneuve-sur-allier;-0.6
 le boulay;-0.4
 scheibenhard;-1.0
 la sabotterie;-0.4
-humbercourt;-1.2
+humbercourt;-1.0
 brioux-sur-boutonne;-0.4
 saint-andeol-de-clerguemort;0.0
 villers-sous-foucarmont;-0.6
@@ -33249,7 +33249,7 @@ meautis;0.0
 chalonnes-sous-le-lude;-0.6
 saint-jacques-des-guerets;0.0
 brelidy;-0.4
-hengwiller;-1.2
+hengwiller;-1.0
 trefols;0.0
 gignac;0.4
 boisemont;-0.6
@@ -33397,7 +33397,7 @@ charmoy;-0.4
 la redorte;0.0
 burcy;-0.4
 bocquence;0.0
-cesseville;-1.2
+cesseville;-1.0
 poey-de-lescar;-0.4
 hornoy-le-bourg;-0.4
 bellerive-sur-allier;-1.0
@@ -33541,7 +33541,7 @@ waldwisse;0.0
 chamole;0.0
 jungholtz;0.4
 satolas-et-bonce;-0.2
-berthenonville;-1.2
+berthenonville;-1.0
 burgy;-0.4
 treillieres;-0.6
 riverenert;-0.4
@@ -33591,7 +33591,7 @@ villiers-en-biere;-0.20000002
 perrigny;-0.8
 foulenay;-0.4
 lissy;-0.4
-cressy-omencourt;-1.2
+cressy-omencourt;-1.0
 saint-remy-chaussee;0.4
 saint-colomban-des-villards;-0.20000002
 sancerre;-0.4
@@ -33616,7 +33616,7 @@ saint-vaast-la-hougue;0.4
 vailhan;0.2
 castelmayran;0.8
 faugeres;-0.4
-davenescourt;-1.2
+davenescourt;-1.0
 courgeac;0.4
 plougrescant;-0.4
 lyon--2e--arrondissement;-0.4
@@ -33691,7 +33691,7 @@ hardifort;0.4
 thil-sur-arroux;-0.2
 saint-julien-l'ars;0.4
 cottenchy;-0.4
-francheville;-1.2
+francheville;-1.0
 reims;0.0
 sabaillan;0.2
 tournus;0.0
@@ -33721,7 +33721,7 @@ la chapelle-gaceline;-0.2
 monteynard;-0.2
 courcelles-les-gisors;-0.6
 la coucourde;0.0
-abergement-le-grand;-1.2
+abergement-le-grand;-1.0
 peuvillers;-1.0
 la croix-aux-mines;-0.4
 vienne-le-chateau;-0.4
@@ -33761,7 +33761,7 @@ montaiguet-en-forez;0.2
 saint-aventin;0.4
 flastroff;0.0
 chalons-du-maine;-0.6
-pierrecourt;-1.2
+pierrecourt;-1.0
 recoules-previnquieres;-0.4
 lignorelles;-0.6
 fonties-d'aude;-0.6
@@ -33919,7 +33919,7 @@ ebblinghem;-0.2
 commensacq;0.0
 grepiac;0.4
 chanteuges;-0.4
-damprichard;-1.2
+damprichard;-1.0
 gurgy;-0.4
 hauterive;-0.4
 bias;0.0
@@ -33997,7 +33997,7 @@ cerfontaine;-1.0
 thenelles;-0.8
 plancher-bas;-0.20000002
 stattmatten;0.0
-sommerecourt;-1.2
+sommerecourt;-1.0
 dammartin-en-goele;0.0
 bouzel;0.0
 merpins;-0.4
@@ -34022,7 +34022,7 @@ aigues-juntes;-0.4
 castex-d'armagnac;0.4
 germigny-l'exempt;-0.4
 montbolo;0.2
-bellancourt;-1.6
+bellancourt;-1.0
 huiron;-0.2
 rouffigny;-0.4
 arracourt;-0.8
@@ -34104,7 +34104,7 @@ sampolo;0.0
 sajas;0.0
 bagneaux-sur-loing;0.0
 le fauga;0.0
-auvilliers;-1.4
+auvilliers;-1.0
 laffrey;-0.4
 saint-roman;0.8
 cardesse;-0.6
@@ -34168,7 +34168,7 @@ beaupuy;-0.4
 chaume-et-courchamp;0.0
 les essarts-le-roi;-0.6
 manonville;-0.6
-hericourt;-1.4
+hericourt;-1.0
 saint-restitut;-0.6
 senargent-mignafans;0.0
 renaze;0.0
@@ -34229,7 +34229,7 @@ chassieu;-0.4
 valigny;0.0
 saint-michel-sur-meurthe;-0.20000002
 haut-lieu;0.0
-varennes-sur-allier;-1.2
+varennes-sur-allier;-1.0
 saucats;0.0
 montmaur-en-diois;0.0
 zellenberg;-0.6
@@ -34424,7 +34424,7 @@ magnan;0.4
 bussac;0.4
 villedieu;0.2
 casterets;-0.4
-wentzwiller;-1.2
+wentzwiller;-1.0
 morre;0.0
 benfeld;0.0
 etrechy;-0.4
@@ -34466,7 +34466,7 @@ oraison;-0.2
 lavare;0.0
 juilly;-0.6
 saint-prix-les-arnay;-0.4
-vaudesincourt;-1.2
+vaudesincourt;-1.0
 issus;0.4
 rouvroy-ripont;-0.2
 le meix-saint-epoing;0.0
@@ -34646,7 +34646,7 @@ montagney-servigney;-0.20000002
 cussey-les-forges;-0.4
 les thons;-0.6
 saint-benoit-en-diois;0.0
-hesbecourt;-1.4
+hesbecourt;-1.0
 lantosque;0.4
 vigeois;-0.4
 fuisse;0.0
@@ -34835,13 +34835,13 @@ escaudes;-0.4
 balaze;0.0
 boissia;0.4
 saint-quentin-au-bosc;0.4
-auderville;-1.4
+auderville;-1.0
 bruguieres;-0.4
 harsault;0.0
 eaunes;-0.4
 antogny-le-tillac;-0.6
 saulchery;-1.0
-courcelles-sapicourt;-1.4
+courcelles-sapicourt;-1.0
 entre-deux-monts;-0.2
 effiat;0.4
 survilliers;-1.0
@@ -34952,7 +34952,7 @@ bessenay;-1.0
 ferrieres;-0.4
 moncheux;0.0
 malegoude;0.0
-bergnicourt;-1.2
+bergnicourt;-1.0
 saint-ciergues;0.0
 rosieres;-0.4
 girac;0.4
@@ -35271,7 +35271,7 @@ fegreac;0.4
 medonville;-0.6
 parfondrupt;-0.2
 grenay;-0.4
-heberville;-1.2
+heberville;-1.0
 villaines-la-juhel;-0.4
 saint-etienne-en-cogles;0.0
 charmentray;-0.4
@@ -35376,7 +35376,7 @@ la jemaye;-0.2
 bellegarde;-0.6
 beaumont-hague;-0.2
 tremuson;-0.2
-fessevillers;-1.2
+fessevillers;-1.0
 gibles;-0.4
 tavernay;-0.8
 saint-cezaire-sur-siagne;0.4
@@ -35412,7 +35412,7 @@ borest;-0.4
 poissy;-0.4
 bart;0.0
 vrizy;-0.4
-hon-hergies;-1.2
+hon-hergies;-1.0
 baune;0.0
 graignes-mesnil-angot;-0.6
 masseube;0.4
@@ -35535,7 +35535,7 @@ echay;-0.4
 plouec-du-trieux;-0.4
 hardancourt;0.0
 villes;-0.20000002
-vacherauville;-1.2
+vacherauville;-1.0
 saint-joseph;0.4
 menet;-0.4
 auberives-en-royans;-0.8
@@ -35824,7 +35824,7 @@ renno;0.4
 meneac;0.4
 grigny;-0.4
 villers-robert;-0.20000002
-aubvillers;-1.4
+aubvillers;-1.0
 la chapelle-caro;-0.20000002
 gaugeac;0.8
 autrey;-0.4
@@ -35865,7 +35865,7 @@ drugeac;0.4
 carnoux-en-provence;0.0
 le crozet;0.0
 cumieres-le-mort-homme;-0.4
-saint-georges-sur-cher;-1.4
+saint-georges-sur-cher;-1.0
 saint-andeol;0.4
 mirville;-0.6
 villegongis;0.2
@@ -36075,7 +36075,7 @@ saints-geosmes;0.0
 fressin;-0.6
 bouilland;-0.6
 salignac-de-mirambeau;0.0
-porquericourt;-1.2
+porquericourt;-1.0
 lamaids;0.0
 pierrelatte;-0.4
 roches;-0.20000002
@@ -36088,7 +36088,7 @@ saint-pierre-la-bourlhonne;-0.20000002
 barret-de-lioure;-0.2
 camps-en-amienois;0.4
 valmont;-0.6
-gibercourt;-1.2
+gibercourt;-1.0
 arbus;0.0
 chesley;-1.0
 saint-genis-l'argentiere;0.0
@@ -36315,15 +36315,15 @@ donnenheim;-0.4
 vosne-romanee;0.0
 saint-marcellin;0.4
 romilly;-0.6
-le plessis-belleville;-1.2
+le plessis-belleville;-1.0
 durmignat;0.4
 grandfontaine;-0.6
 falleron;-0.6
 crugny;-0.4
-rubescourt;-1.2
+rubescourt;-1.0
 saint-martin-le-colonel;0.2
 saint-jean-de-daye;0.2
-authon-du-perche;-1.2
+authon-du-perche;-1.0
 marmeaux;0.4
 saint-leonard;-0.2
 epierre;-0.4
@@ -36383,7 +36383,7 @@ ardes;-0.4
 palis;0.0
 sury-le-comtal;0.0
 malleret-boussac;-0.4
-joncherey;-1.2
+joncherey;-1.0
 carlipa;0.0
 ruynes-en-margeride;-0.4
 champagnat;0.4
@@ -36498,7 +36498,7 @@ saint-maur;0.4
 grandvillers;-1.0
 dagny;-0.4
 juville;-0.6
-gerbecourt;-1.2
+gerbecourt;-1.0
 foissac;0.4
 margency;0.0
 monnes;-0.20000002
@@ -36528,7 +36528,7 @@ la rochette;-0.2
 vins-sur-caramy;-0.4
 citey;-0.6
 le larderet;-0.4
-serocourt;-1.2
+serocourt;-1.0
 mainxe;0.0
 autry;-0.8
 bassercles;-0.4
@@ -36644,7 +36644,7 @@ saint-pardoux-morterolles;0.0
 saint-michel-loubejou;-0.20000002
 saint-bonnet-l'enfantier;-0.6
 villy-en-trodes;-0.20000002
-saint-antoine-du-rocher;-1.4
+saint-antoine-du-rocher;-1.0
 dordives;-0.4
 tourbes;-0.4
 mollau;0.0

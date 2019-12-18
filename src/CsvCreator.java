@@ -4,7 +4,15 @@ public class CsvCreator {
 
     public CsvCreator(String nomCommune, float score) {
         this.nomCommune = nomCommune;
-        this.score = score;
+        if (score < -1) {
+            this.score = -1;
+        }
+        else if (score > 1) {
+            this.score = 1;
+        }
+        else {
+            this.score = score;
+        }
     }
 
     @Override
